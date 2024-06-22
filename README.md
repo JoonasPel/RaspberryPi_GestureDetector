@@ -1,0 +1,1 @@
+Gesture detector will be hosted in cloud (AWS). Raspberry pi can request it with images and receive the gesture information back which is very cost efficient as the image data is only inbound traffic.
